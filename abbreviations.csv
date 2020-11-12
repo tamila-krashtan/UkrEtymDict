@@ -1,0 +1,172 @@
+abbreviation	aliases	type	meaning_uk	meaning_en
+акт.		grammar	активний	active
+анат.		misc	анатомічне	anatomic
+ант.		misc	античне	antique
+антрополог.		misc	антропологічне	anthropological
+аор.		grammar	аорист	aorist
+арг.		misc	арготичне	argot
+арх.		meta	архаїчне	archaic
+архіт.		misc	архітектурне	architectural
+астр.		misc	астрономічне	astronomical
+безос.		grammar	безособове	impersonal
+бібл.		misc	біблійне	Bible
+біол.		misc	біологічне	biological
+бл.		meta	близько	around
+бот.		misc	ботанічне	botanic
+буд.		misc	будівельне	building
+букв.		meta	буквально	literally
+бухг.		misc	бухгалтерське	bookkeeping
+вет.		misc	ветеринарне	veterinary
+виг.		pos	вигук	interjection
+вим.		meta	вимовляється	pronounced
+вищ. ступінь		grammar	вищий ступінь	comparative
+в.	відм.	grammar	відмінок	case
+військ.		misc	військове	military
+в т. ч.	у т. ч.	meta	в тому числі	including
+вульг.		misc	вульгарне	vulgar
+геогр.		misc	географічне	geographical
+геол.		misc	геологічне	geological
+гірн.		misc	гірниче	mining
+глузл.		misc	глузливе	derisive
+гонч.		misc	гончарне	pottery
+грам.	грамат.	misc	граматичне	grammatical
+губ.		meta	губернія	guberniya
+дав.		grammar	давальний	dative
+дв.		grammar	двоїна	dual
+див.		meta	дивись	see
+дипл.		misc	дипломатичне	diplomatic
+дит.		misc	дитяче	child
+діал.		meta	діалектне	dialectal
+дієприкм.		pos	дієприкметник	participle
+дієсл.		pos	дієслово	verb
+до н. е.		meta	до нашої ери	BC
+друк.		misc	друкарське	typographical
+евф.		meta	евфемізм	euphemism
+експрес.		misc	експресивне	expressive
+енкл.		grammar	енклітика	enclitic
+ент.		misc	ентомологічне	entomological
+етн.		misc	етнічне	ethnic
+жарт.		misc	жартівливе	humorous
+жін. р.	жін., ж. р.	grammar	жіночий рід	feminine
+займ.		pos	займенник	pronoun
+зам.		meta	замість	instead of
+заст.	застар.	meta	застаріле	obsolete
+зах.		misc	західне	western
+збільш.		grammar	збільшувальна форма	augmentative
+зб.		grammar	збірна назва	collective
+згруб.		misc	згрубіле	rude
+зменш.	зменш.-пестл., здрібн., зм.	grammar	зменшувальна форма	diminutive
+зн.	знах.	grammar	знахідний	accusative
+знев.	зневажл., презирл.	misc	зневажливе	contemptuous
+зоол.		misc	зоологічне	zoological
+усн.		meta	з усних джерел	oral
+імен.		pos	іменник	noun
+і наст.		meta	і наступні	and next
+ірон.		misc	іронічне	ironic
+іст.		misc	історичне	historic
+і т. д.		meta	і так далі	etc.
+і т. ін.	та ін., і ін.	meta	і так інше	etc.
+і т. п.	і под., под.	meta	і тому подібне	etc.
+іхт.		misc	іхтіологічне	ichthyologic
+крб.		misc	карбованець	karbovanets
+карт.		misc	картярське	card games
+кін.		meta	кінець	end
+клас.		meta	класичне	classic
+кн.	книжн.	meta	книжне	literary
+коп.		misc	копійка	kopiyka
+кул.		misc	кулінарія	cuisine
+лайл.		misc	лайливе	abusive
+лінгв.		misc	лінгвістичне	linguistic
+літ.		misc	літературне	literature
+майб. ч.		grammar	майбутній час	future
+мат.		misc	математичне	mathematical
+мед.		misc	медичне	medical
+мех.		misc	механічне	mechanical
+мин. ч.	мин.	grammar	минулий час	past
+мисл.		misc	мисливське	hunting
+мін.		misc	мінералогічне	mineralogical
+місц.		grammar	місцевий	locative
+міф.		misc	міфологічне	mythological
+мн.		grammar	множина	plural
+морськ.		misc	морське	nautical
+муз.		misc	музичне	musical
+наз.		grammar	називний	nominative
+наказ. спос.	наказ.	grammar	наказовий спосіб	imperative
+напр.		meta	наприклад	e.g.
+нар.		meta	народне	vernacular, folk
+н. е.		meta	нашої ери	AD
+невідм.		grammar	невідмінюване	indeclinable
+недок.			недоконаний вид	imperfective
+обл.		meta	обласне	regional
+одн.		grammar	однина	singular
+орн.		misc	орнітологічне	ornithological
+орудн.		grammar	орудний	instrumental
+ор.		grammar	орудний	instrumental
+ос.		grammar	особа	person
+о.		misc	острів	island
+палеонт.		misc	палеонтологічне	paleontological
+пас.		grammar	пасивний	passive
+перв.		meta	первісно	initially
+перев.		meta	переважно	mainly
+перен.		misc	переносне	figurative
+перф.		grammar	перфект	perfect
+пестл.		misc	пестливе	affectionate
+пд.	півд.	misc	південне	southern
+пн.	півн.	misc	північне	northern
+пізн.		meta	пізнє	late
+пов.		meta	повіт	district
+поет.		misc	поетичне	poetic
+полігр.		misc	поліграфічне	polygraphic
+політ.		misc	політичне	political
+пол.		meta	половина	half
+пор.		meta	порівняй	compare
+поч.		meta	початок	beginning
+прийм.		pos	прийменник	preposition
+прикм.		pos	прикметник	adjective
+присл.		pos	прислівник	adverb
+рел.		misc	релігійне	religious
+риб.		misc	рибальське	fishing
+рідк.		meta	рідковживане	rarely-used
+род.		grammar	родовий	genitive
+розм.		meta	розмовне	colloquial
+р.	рр.	meta	роки	years
+рун.		meta	рунічне	runic
+сад.	садівн.		садівниче	gardening
+св.		misc	святий	holy
+с.		misc	село	village
+с. р.		grammar	середній рід	neutral
+с.-г.		misc	сільськогосподарське	agricultural
+спец.		misc	спеціальне	special
+спол.		pos	сполучник	conjunction
+спорт.		misc	спортивне	athletic
+ст.		meta	старе	old
+ст.		meta	століття	century
+субст.		grammar	субстантивне утворення	substantive
+суф.		grammar	суфікс	suffix
+суч.		meta	сучасне	modern
+сх.		misc	східне	eastern
+т. зв.		meta	так званий	so called
+тж		meta	там же	ibidem
+театр.		misc	театральне	theater
+теп. ч.	теп.	grammar	теперішній час	present
+текст.		misc	термін текстильної промисловості	textile
+тс.		meta	те саме	ditto
+тех.	техн.	misc	технічне	technical
+тис.		misc	тисячоліття	millennium
+тк.		misc	ткацька справа	weaving
+торг.		misc	торгове	trade
+уроч.		misc	урочисте	solemn
+фам.		misc	фамільярне	familiar, unceremonious
+фарм.		misc	фармацевтичне	pharmaceutical
+фіз.		misc	фізичне	physics
+філос.		misc	філософське	philosophical
+фольк.	фолькл.	meta	фольклорне	folklore
+фонет.	фон.	meta	фонетичне	phonetic
+фотограф.		misc	фотографія	photography
+хім.		misc	хімічне	chemical
+хто-н.	кого-н., кому-н., ким-н.	meta	хто-небудь	somebody
+церк.		misc	церковне	church
+числ.		misc	числове	numeric
+чол. р.	чол.	grammar	чоловічий рід	masculine
+що-н.	чого-н.	meta	що-небудь	something
+юр.	юрид.	misc	юридичне	law
