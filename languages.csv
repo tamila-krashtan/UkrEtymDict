@@ -169,7 +169,7 @@ abbreviation	aliases	name_uk	name_uk_synonym	name_en	iso_code	wiktionary_code
 манс.	вогул.	мансійська	вогульська	Mansi	mns	mns
 маньчж.		маньчжурська		Manchu	mnc	mnc
 маратхськ.		маратхі		Marathi	mr	mr
-мар.		марійська		Mari		chm
+мар.		марійська		Mari		chm-pro
 мегр.	мінгрельськ.	мегрельська		Mingrelian	xmf	xmf
 мексикансько-ісп.	мексикан.	мексиканська іспанська		Mexican Spanish		es
 мікен.		мікенська грецька		Mycenaean Greek	gmy	gmy
@@ -220,7 +220,7 @@ abbreviation	aliases	name_uk	name_uk_synonym	name_en	iso_code	wiktionary_code
 псл.		праслов’янська		Proto-Slavic		sla-pro
 пуг.		праугорська		Proto-Hungarian		
 пугр.		праугрійська		Proto-Ugric		urj-ugr-pro
-пфін.		прафінська		Proto-Finnic		fiu-fin-pro
+пфін.		прафінська		Proto-Finnic		urj-fin-pro
 пров.	прованс.	провансальська		Provençal		frp
 прус.		прусська		Old Prussian	prg	prg
 псков.		псковська		Pskov		
@@ -234,7 +234,7 @@ abbreviation	aliases	name_uk	name_uk_synonym	name_en	iso_code	wiktionary_code
 савойськ.		савойська		Savoyard		frp
 самод.		самодійська		Samoyedic	syd	syd-pro
 сван.		сванська		Svan	sva	sva
-сельк.	селькупськ.	селькупська		Selkup	sel	sel
+сельк.	селькупськ.	селькупська		Selkup	sel	sel-pro
 сем.		семітська		Semitic		sem-pro
 схв.		сербохорватська		Serbo-Croatian	sh	sh
 с.-цсл.	схв.-цсл., цсл.-схв.	сербо-церковнослов’янська		Serbian recension of Church Slavonic		cu
